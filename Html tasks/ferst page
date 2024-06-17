@@ -17,15 +17,22 @@
 
     <div>
         <h3>Place of residence</h3>
-        <P>Citi of Kyiv</P>
+        <P>Kyiv city</P>
         <p>Heroiv Dnipra strt.45/163</p>
     </div>
+    <hr color="blue" size="2">
     <div>
-      <H3>My Hoby</H3>
+      <h1>My contacts</h1>
+     <b>Number</b> 380997769845
+     <p><b>Email</b> locoal920@gmail.com</p>
+    </div>
+    <hr color="blue" size="2">
+    <div>
+      <H3>My Hobbies</H3>
      <li>Play video games</li>
      <li>Watch movies and TV series</li>
      <li>Read books</li>
-     <li>walks in the open air</li>
+     <li>Walks in the open air</li>
     </div>
 
     
