@@ -1,0 +1,36 @@
+<html>
+
+  <head>
+      <meta content="text/html; charset=utf-8">
+      <title>My first Title</title>
+  </head>
+
+  <body>
+
+    <div>
+      <p><img src="/Home-work/Html tasks/images/600000391210b0.jpg"></p>
+        <h1>Alexei Lotsman</h1>
+        <h2>Date of Birth 21.04.1994</h2>
+    </div>
+
+    <hr color="blue" size="2">
+
+    <div>
+        <h3>Place of residence</h3>
+        <P>Citi of Kyiv</P>
+        <p>Heroiv Dnipra strt.45/163</p>
+    </div>
+    <div>
+      <H3>My Hoby</H3>
+     <li>Play video games</li>
+     <li>Watch movies and TV series</li>
+     <li>Read books</li>
+     <li>walks in the open air</li>
+    </div>
+
+    
+    
+
+  </body>
+
+</html>
