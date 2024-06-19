@@ -21,13 +21,9 @@
         <p>Heroiv Dnipra strt.45/163</p>
     </div>
     <hr color="blue" size="2">
-    <div>
-      <h3>My contacts</h3>
-     <b>Number</b> 380997769845
-     <p><b>Email</b> locoal920@gmail.com</p>
-    </div>
-    <hr color="blue" size="2">
-    <div>
+   <div>
+    <a href="/pages/contacts.html">My conntacts</a>
+   </div>
       <H3>My Hobbies</H3>
       <ul>
      <li>Play video games</li>
