@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
 
   <head>
       <meta content="text/html; charset=utf-8">
@@ -8,7 +8,7 @@
   <body>
 
     <div>
-      <p><img src="/Home-work/Html tasks/images/600000391210b0.jpg"></p>
+      <p><img src="/Home-work/Html tasks/images/600000391210b0.jpg" alt="French bulldog"></p>
         <h1>Alexei Lotsman</h1>
         <h2>Date of Birth 21.04.1994</h2>
     </div>
@@ -29,10 +29,12 @@
     <hr color="blue" size="2">
     <div>
       <H3>My Hobbies</H3>
+      <ul>
      <li>Play video games</li>
      <li>Watch movies and TV series</li>
      <li>Read books</li>
      <li>Walks in the open air</li>
+    </ul>
     </div>
 
     
